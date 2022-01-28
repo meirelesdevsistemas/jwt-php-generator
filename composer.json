@@ -3,7 +3,8 @@
     "description": "Classe responsavel por gera/validar/ token JWT.\"",
     "autoload": {
         "psr-4": {
-            "Daniel\\JwtPhp\\": "src/"
+            "Daniel\\JwtPhp\\": "src/",
+            "Test\\": "test/"
         }
     },
     "authors": [
