@@ -6,7 +6,7 @@ namespace Test\Entity;
 
 use PHPUnit\Framework\TestCase;
 
-class JwtTest extends TestCase
+class JwtPHPGeneratorTest extends TestCase
 {
     public function testShouldCreateAJWTString()
     {
