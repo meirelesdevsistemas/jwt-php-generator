@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Test\Entity;
 
+use Daniel\JwtPHPGenerator\Entity\JwtPHPGenerator;
 use PHPUnit\Framework\TestCase;
 
 class JwtPHPGeneratorTest extends TestCase
