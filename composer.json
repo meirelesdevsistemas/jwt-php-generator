@@ -1,0 +1,22 @@
+{
+    "name": "daniel/jwt-php",
+    "description": "Classe responsavel por gera/validar/ token JWT.\"",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\JwtPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Meireles",
+            "email": "httpdaniel@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
